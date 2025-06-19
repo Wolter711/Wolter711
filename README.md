@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wolter711
-- 👀 I’m interested in contao
-- 🌱 I’m currently learning contao
+- 👀 I’m interested in php
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
